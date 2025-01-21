@@ -1,0 +1,16 @@
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\bin\Debug\WF_Examen.exe.config
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\bin\Debug\WF_Examen.exe
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\bin\Debug\WF_Examen.pdb
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\obj\Debug\WF_Examen.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\obj\Debug\WF_Examen.MainForm.resources
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\obj\Debug\WF_Examen.csproj.GenerateResource.Cache
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\obj\Debug\WF_Examen.exe
+C:\Users\eduar\OneDrive\Documents\SharpDevelop Projects\WF_Examen\WF_Examen\obj\Debug\WF_Examen.pdb
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\bin\Debug\WF_Examen.exe.config
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\bin\Debug\WF_Examen.exe
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\bin\Debug\WF_Examen.pdb
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\obj\Debug\WF_Examen.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\obj\Debug\WF_Examen.MainForm.resources
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\obj\Debug\WF_Examen.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\obj\Debug\WF_Examen.exe
+C:\Users\Usuario\Desktop\WF_Examen\WF_Examen\obj\Debug\WF_Examen.pdb
